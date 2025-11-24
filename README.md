@@ -44,11 +44,10 @@ The project demonstrates basic HTML structure, UI layout, and documentation usin
 4. No additional setup or installation required.
 
 ---
+## Live Demo
 
-## Live Demo (Optional)
-
-If deployed using GitHub Pages, your link will look like:
-
+You can view the live site here:  
+https://harmainghufran-sketch.github.io/FreelanceHub/
 
 ---
 
@@ -62,4 +61,5 @@ https://github.com/harmainghufran-sketch/FreelanceHub
 ## Commit History
 
 This project is a solo submission, so all commits are made by a single contributor.
+
 
