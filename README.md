@@ -54,7 +54,7 @@ If deployed using GitHub Pages, your link will look like:
 
 ## Repository Link
 
-Provide your GitHub repo link here:
+https://github.com/harmainghufran-sketch/FreelanceHub
 
 
 ---
@@ -62,3 +62,4 @@ Provide your GitHub repo link here:
 ## Commit History
 
 This project is a solo submission, so all commits are made by a single contributor.
+
