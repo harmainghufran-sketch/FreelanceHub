@@ -15,9 +15,9 @@ The project demonstrates basic HTML structure, UI layout, and documentation usin
 ## Features
 
 - Clean and simple homepage layout  
-- Navigation bar (if included)  
-- Service section (if included)  
-- Footer / contact information (optional)  
+- Navigation bar 
+- Service section  
+- Footer 
 - Fully static website — runs directly in browser  
 - Organized using Git version control  
 
@@ -26,7 +26,7 @@ The project demonstrates basic HTML structure, UI layout, and documentation usin
 ## Tools & Technologies Used
 
 - **HTML5**
-- **CSS3** (if used)
+- **CSS3**
 - **Git & GitHub**
 - **VS Code / any editor**
 
@@ -61,5 +61,6 @@ https://github.com/harmainghufran-sketch/FreelanceHub
 ## Commit History
 
 This project is a solo submission, so all commits are made by a single contributor.
+
 
 
